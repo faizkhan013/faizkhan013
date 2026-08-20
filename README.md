@@ -9,7 +9,6 @@ Computer Science student focused on building practical software and continuously
 * 🌱 Currently learning Backend Development & System Design
 * 🔨 Building applications with Java, Python, JavaScript, React, Django & Spring Boot
 * 🤝 Open to collaboration and open-source opportunities
-* 📍 India
 
 ---
 
